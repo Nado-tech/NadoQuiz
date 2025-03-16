@@ -55,6 +55,7 @@ footer {
     color: var(--footer-text-color);
     text-align: center;
     padding: 10px 0;
+    margin-bottom: -40px;
 }
 footer a {
     color: var(--footer-text-color);
